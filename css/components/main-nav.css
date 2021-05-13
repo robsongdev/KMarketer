@@ -1,0 +1,13 @@
+.main-nav{
+    display: flex;
+    height: 104px;
+    align-items: center;
+    justify-content:space-between;
+    margin-left: 59px;
+    margin-right: 59px;
+
+}
+
+.main-nav .main-h3{
+    margin-left: 136px;
+}
