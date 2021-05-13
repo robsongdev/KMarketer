@@ -1,0 +1,7 @@
+.menu-item{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--second-text-color);
+
+}
