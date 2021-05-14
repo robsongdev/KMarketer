@@ -1,0 +1,7 @@
+.header-buttons{
+    margin-bottom: 120px;
+}
+
+.header-buttons .main-button:first-child{
+    margin-right: 10px;
+}
