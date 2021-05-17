@@ -1,0 +1,8 @@
+.row-cards{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1046px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
