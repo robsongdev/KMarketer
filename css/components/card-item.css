@@ -1,0 +1,16 @@
+.card-item{
+    box-sizing: border-box;
+    width: 328px;
+    padding:35px 40px;
+}
+
+.card-item .flex-row{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+
+.card-item .flex-row .main-h5{
+    margin-left: 15px;
+}
