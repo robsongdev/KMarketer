@@ -1,0 +1,6 @@
+.main-paragraph{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: var(--second-text-color);
+}
