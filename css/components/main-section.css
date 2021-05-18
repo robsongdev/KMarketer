@@ -1,6 +1,18 @@
 .main-section{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 0px;
     margin-left: 195px;
     margin-right: 195px;
+    position: relative;
 }
+
+.main-section.-paddingTopBot100{
+    padding: 100px 0px;
+}
+
+.main-section .media-video{
+    margin-top: 50px;
+}
+
