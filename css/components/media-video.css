@@ -1,0 +1,9 @@
+.media-video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.media-video .play-button{
+    position: absolute;
+}
