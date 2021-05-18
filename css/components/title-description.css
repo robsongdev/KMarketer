@@ -1,7 +1,5 @@
 .title-description{
     max-width: 470px;
-    margin-left: auto;
-    margin-right: auto;
 }
 .title-description .main-h2{
     text-align: center;
@@ -13,7 +11,7 @@
     text-align: center;
 }
 
-.title-description.-paddingTopBot{
+.title-description.-paddingTopBot45{
     padding-top: 45px;
     padding-bottom: 45px;
 }
