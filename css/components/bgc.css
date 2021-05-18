@@ -1,0 +1,8 @@
+.bgc-secondary{
+    position: absolute;
+    background-color: var(--secondary-color-2);
+    height: 382px;
+    width: 100%;
+    margin-top: 433px;
+    
+}
