@@ -1,0 +1,18 @@
+.main-h6{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--second-text-color);
+}
+
+.main-h6.-primaryColor{
+    color:var(--primary-color)
+}
+.main-h6.-textColor{
+    color: var(--text-color);
+}
+
+.main-h6.-paddingTopBot20{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
